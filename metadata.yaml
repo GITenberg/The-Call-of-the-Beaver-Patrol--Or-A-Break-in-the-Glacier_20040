@@ -1,0 +1,29 @@
+_repo: The-Call-of-the-Beaver-Patrol--Or-A-Break-in-the-Glacier_20040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sherman, V. T.
+    gutenberg_agent_id: '9046'
+    url: http://www.gutenberg.org/2009/agents/9046
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2006-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Coal mines and mining -- Juvenile fiction'
+- !lcsh 'Alaska -- Juvenile fiction'
+tableOfContents: Boy Scouts in the coal caverns, or, The light in tunnel six -- Boy
+  Scouts in Alaska, or, The camp on the glacier -- Black art in Cincinatti.
+title: The Call of the Beaver Patrol; Or, A Break in the Glacier
+url: http://www.gutenberg.org/ebooks/20040
